@@ -1,0 +1,4 @@
+pandas
+mlxtend
+dash
+dash-bootstrap-components

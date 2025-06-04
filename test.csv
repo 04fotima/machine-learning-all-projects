@@ -1,0 +1,4 @@
+PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt,ShoppingMall,Spa,VRDeck,Name
+1001_01,Mars,True,C/1/S,55 Cancri e,27,True,100,50,0,10,0,Mary Jane
+1002_01,Europa,False,A/0/S,TRAPPIST-1e,41,False,0,0,0,0,0,Tom Hardy
+1003_01,Earth,False,D/5/P,PSO J318.5-22,35,True,200,100,100,50,300,Sara Moon
